@@ -166,6 +166,3 @@ if __name__ == "__main__":
     app = KryptonexApp()
     app.mainloop()
 import customtkinter as ctk
-if __name__ == "__main__":
-    app = KryptonexApp()
-    app.mainloop()
