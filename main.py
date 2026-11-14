@@ -203,7 +203,7 @@ class KryptonexApp(ctk.CTk):
             if "github.com" in deger:
                 link = ctk.CTkLabel(satir, text=deger, font=("Consolas", 14, "underline"), text_color=self.NEON, cursor="hand2", anchor="w")
                 link.pack(side="left")
-                link.bind("<Button-1>", lambda e: webbrowser.open("https://github.com"))
+                link.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/serhansima283-hub"))
             else:
                 ctk.CTkLabel(satir, text=deger, font=("Consolas", 14), text_color="#FFFFFF", anchor="w").pack(side="left")
 
