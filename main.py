@@ -190,7 +190,7 @@ class KryptonexApp(ctk.CTk):
             ("UYGULAMA ADI   :", "KRYPTONEX ŞİFRE ÇÖZÜM MERKEZİ"),
             ("SÜRÜM          :", "v1.5.0 (MODERN TERMİNAL SÜRÜMÜ)"),
             ("GELİŞTİRİCİ    :", "Ahmet Serhan Şima"),
-            ("GİTHUB ADRESİ  :", "github.com"),
+            ("GİTHUB ADRESİ  :", "https://github.com/serhansima283-hub"),
             ("MİMARİ         :", "PYTHON 3 / NESNE TABANLI PROGRAMLAMA (OOP)"),
             ("ALGORİTMALAR   :", "BASE64, HEX, BINARY, URL, MORS, ROT13, SEZAR"),
             ("AKTİF SİSTEM   :", isletim_sistemi)
