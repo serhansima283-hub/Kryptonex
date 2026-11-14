@@ -90,7 +90,7 @@ class KryptonexApp(ctk.CTk):
             alt_kart, text="GITHUB PROFİLİ", height=28, corner_radius=3,
             fg_color=self.BG_KART, hover_color="#1F242C", border_width=1, border_color=self.KOYU_YESIL,
             text_color=self.NEON, font=("Consolas", 11, "bold"),
-            command=lambda: webbrowser.open("https://github.com")
+            command=lambda: webbrowser.open("https://github.com/serhansima283-hub")
         ).pack(fill="x", padx=10, pady=(0, 10))
 
     def sayfalar_olustur(self):
